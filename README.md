@@ -29,5 +29,6 @@ Create Dashboards and Reports: Combine multiple visualizations into interactive 
 Add Calculated Measures: Create calculated measures or columns to derive meaningful insights from the data. For example, you can create a measure for profit margin or average order value.
 
 Publish  Once you've created the desired analysis and reports, publish the Power BI report to the Power BI service. This will allow you to share the report with others in your organization, and they can also interact with the report if they have Power BI access.
+![Screenshot (249)](https://github.com/Brindhagithub01/PowerBI-projects/assets/132831579/d463832b-8f1e-47c7-860d-86ffa53dfe02)
 
 Power BI provides extensive capabilities for data exploration and visualization.
